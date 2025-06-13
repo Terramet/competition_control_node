@@ -1,0 +1,4 @@
+<launch>
+  <node name="ari_control_node" pkg="competition_control_node" type="control_node.py" output="screen"/>
+</launch>
+

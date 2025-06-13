@@ -1,0 +1,6 @@
+bool detected
+string timestamp
+---
+bool success
+string message
+
